@@ -1,2 +1,2 @@
-# haritest
-sample test code1
+# Sample Code
+sample first Testcode
